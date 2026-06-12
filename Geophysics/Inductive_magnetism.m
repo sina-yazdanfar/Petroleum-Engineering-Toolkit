@@ -12,5 +12,5 @@ H = input ('Enter the value of the horizontal component of the Earth magnetic fi
 
 MC = K*H;
 
-fprintf('The magnitude of the induced magnetism is equal to %.4f', MC);
+fprintf('The magnitude of the induced magnetism is equal to %.4f A/m\n', MC);
 
